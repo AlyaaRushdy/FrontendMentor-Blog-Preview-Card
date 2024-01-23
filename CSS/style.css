@@ -51,7 +51,8 @@ body {
   border-radius: 1rem;
   box-shadow: 7px 7px 0 var(--Black);
 }
-body:has(.main__h1:hover) .main {
+body:has(.main__h1:hover) .main,
+body:has(.main__h1:focus) .main {
   box-shadow: 15px 15px 0 var(--Black);
 }
 .main :not(.instructor, .instructor__img, .instructor__h2) {
@@ -74,7 +75,8 @@ body:has(.main__h1:hover) .main {
   font-size: 1.4rem;
   font-weight: 800;
 }
-.main__h1:hover {
+.main__h1:hover,
+.main__h1:focus {
   color: var(--PrimaryColor-Yellow);
   cursor: pointer;
 }
