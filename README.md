@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/mobilefirst-responsive-solution-using-css-flexbox-y-hBp-uG9E)
 - Live Site URL: [Netlify](https://glittery-rabanadas-775c78.netlify.app/)
 
 ## My process
